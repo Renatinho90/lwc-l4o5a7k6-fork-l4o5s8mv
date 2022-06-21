@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/renatinho90.lwc-l4o5a7k6-fork-l4o5s8mv",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 2fvLcrGFZU6Hm50dmjih --open"
+  }
+}
